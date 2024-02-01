@@ -862,22 +862,22 @@ summary:focus {
   height: 5.6rem;
 }
 .image1 {
-  background: url("../icons/роснефть\ 1.png 1.png") no-repeat center;
+  background: url("/icons/роснефть\ 1.png 1.png") no-repeat center;
 }
 .image2 {
-  background: url("../icons/image\ 3.png") no-repeat center;
+  background: url("/icons/image\ 3.png") no-repeat center;
 }
 .image3 {
-  background: url("../icons/транснефть\ 1.png") no-repeat center;
+  background: url("/icons/транснефть\ 1.png") no-repeat center;
 }
 .image4 {
-  background: url("../icons/Frame.png") no-repeat center;
+  background: url("/icons/Frame.png") no-repeat center;
 }
 .image5 {
-  background: url("../icons/Frame\ \(1\).png") no-repeat center;
+  background: url("/icons/Frame\ \(1\).png") no-repeat center;
 }
 .image6 {
-  background: url("../icons/image\ 4.png") no-repeat center;
+  background: url("/icons/image\ 4.png") no-repeat center;
 }
 .section-eight-title {
   width: 114rem;
